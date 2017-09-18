@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1466866970 source:c:\users\elyas\documents\cefet\ocomon machos and ursos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<locale.h>
+
+1474053248 source:c:\users\elyas\documents\cefet\ocomon - machos and ursos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<locale.h>
+	<exception>
+
